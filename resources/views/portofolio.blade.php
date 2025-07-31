@@ -126,6 +126,22 @@
                         class="btn btn-primary">LIHAT LANGSUNG</a>
                 </div>
             </div>
+            {{-- PROYEK 3 --}}
+            <div class="project-item">
+                <div class="project-image">
+                    <img src="{{ asset('images/project-kasir.png') }}" alt="Kasir Sederhana">
+                </div>
+                <div class="project-details">
+                    <h3 class="project-title">Kasir Sederhana Dekstop (Python CLI)</h3>
+                    <p class="project-description">
+                        Sebuah program command-line interface (CLI) sederhana yang dibuat dengan Python untuk mengelola
+                        kasir. Aplikasi dekstop ini mendemonstrasikan penggunaan struktur data (list), perulangan, logika
+                        kondisional, dan input dari pengguna untuk memilah dan menampilkan menu berdasarkan harga.
+                    </p>
+                    <a href="https://github.com/akuazizz/Tubes-Kelompok-6/" target="_blank" class="btn btn-primary"><i
+                            class='bx bxl-github'></i> LIHAT KODE</a>
+                </div>
+            </div>
         </div>
     </section>
 

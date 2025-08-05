@@ -52,9 +52,9 @@
         <div class="footer-social">
           <h3>SOCIAL</h3>
           <div class="social-links">
-            <a href="#" aria-label="LinkedIn"><i class='bx bxl-linkedin-square'></i></a>
-            <a href="#" aria-label="GitHub"><i class='bx bxl-github'></i></a>
-            <a href="#" aria-label="Instagram"><i class='bx bxl-instagram-alt'></i></a>
+            <a href="https://www.linkedin.com/in/muhammad-abdul-aziz-9bbbab251/" aria-label="LinkedIn"><i class='bx bxl-linkedin-square'></i></a>
+            <a href="https://github.com/akuazizz" aria-label="GitHub"><i class='bx bxl-github'></i></a>
+            <a href="https://www.instagram.com/ngabdulazizz/" aria-label="Instagram"><i class='bx bxl-instagram-alt'></i></a>
           </div>
         </div>
       </div>

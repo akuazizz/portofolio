@@ -158,7 +158,12 @@
 
         {{-- Kontainer untuk Formulir --}}
         <div class="contact-form-container">
-            <form action="#" method="POST" class="contact-form">
+            @if(session('success'))
+                <div class="alert-success">
+                    {{ session('success') }}
+                </div>
+            @endif
+            <form action="{{ route('contact.store') }}" method="POST" class="contact-form">
                 @csrf {{-- Token keamanan Laravel, wajib untuk setiap form --}}
 
                 <div class="form-group">

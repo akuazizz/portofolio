@@ -194,7 +194,7 @@ main {
    STYLING SECTION UMUM
 ================================= */
 .section {
-    padding: 120px 0;
+    padding: 80px 0;
 }
 .section-header {
     text-align: center;
@@ -534,4 +534,15 @@ textarea.form-control {
     width: 100%; /* Buat tombol memenuhi lebar form */
     padding: 18px 32px; /* Buat tombol lebih besar */
     font-size: 1.1rem;
+}
+
+/* Styling untuk pesan sukses */
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #c3e6cb;
+    border-radius: 8px;
+    text-align: center;
 }
